@@ -149,6 +149,7 @@ int rethrowExceptionTest (bigger cBigger)
 {
   //TODO
 
+
   // SOLUTION
  /* try
   {
